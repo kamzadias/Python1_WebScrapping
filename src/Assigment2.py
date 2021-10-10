@@ -15,9 +15,3 @@ class Scrapper:
       #If needed to get the paragpaphs from the coinmarketcap
 
       return text
-
-scrapper = Scrapper()
-list = scrapper.get(input("Enter coin: "))
-
-for item in list:
-   print(item.text.strip())
