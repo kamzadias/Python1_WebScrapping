@@ -4,12 +4,12 @@
 Using the Python 3 around the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [requests](https://pypi.org/project/requests/)
 
 ### Installation
-## Requests 2.26.0
+#### Requests 2.26.0
 PyPI
 ```bash
 python -m pip install requests
 ```
-## Beautifulsoup4
+#### Beautifulsoup4
 PyPI
 ```bash
 pip install beautifulsoup4
@@ -17,13 +17,13 @@ pip install beautifulsoup4
 
 ### Usage
 
-## Requests 2.26.0
+#### Requests 2.26.0
 
 ```python
 import requests
 r = requests.get("url")
 ```
-## Beautifulsoup4
+#### Beautifulsoup4
 
 ```python
 from bs4 import BeautifulSoup
