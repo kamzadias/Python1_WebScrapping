@@ -35,6 +35,7 @@ BeautifulSoup documentation https://www.crummy.com/software/BeautifulSoup/bs4/do
 
 ```shell
 Enter coin: bitcoin
+
 Bitcoin price today, BTC to USD live, marketcap and chart
 CoinMarketCap: Cryptocurrency Prices, Charts And Market ...
 Bitcoin (BTC) Цена, Графики, Рыночная капитализация
